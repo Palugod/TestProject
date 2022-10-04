@@ -1,0 +1,19 @@
+
+#top-screen{
+    width: 50%;
+    height: 40%;
+
+    margin: 2px;
+    width: 50%;
+    border: 2px solid green;
+    padding: 10px;
+}
+
+#article-screen{
+
+    width: 50%;
+    height: 50%;
+    margin: 2px;
+    border: 2px solid blue;
+    padding: 10px;
+}
